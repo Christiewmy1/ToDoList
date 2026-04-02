@@ -9,7 +9,7 @@ No dependencies — just Python 3.6+.
 
 | Field | Details |
 |-------|---------|
-| **NetID** | 2577106 |
+| **NetID** | wmy1 |
 | **Name** | Christie Yiu |
 | **GitHub Repository** | [ToDoList](https://github.com/Christiewmy1/ToDoList.git) |
 
